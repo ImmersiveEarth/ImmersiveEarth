@@ -8,7 +8,7 @@
 
 nav{
     font-family: monsterrat;
-    background-color: #0a043c;
+    background-color: #A0816C;
     height: 80px;
     width: 100%;
 }
@@ -38,7 +38,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 a.active, a:hover{
-    background-color:#C53F3F;
+    background-color:#30694B;
     transform: .5s;
     padding : 7px 13px;
     border-radius: 3px;
@@ -61,7 +61,7 @@ a.active, a:hover{
 /* home section */
 h2{
     text-align: center;
-    color:#C53F3F;
+    color:#30694B;
     margin-top: 20px;
 }
 .about{
