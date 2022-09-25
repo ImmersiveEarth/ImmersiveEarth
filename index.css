@@ -1,16 +1,16 @@
 .menu{
-    background-color: #1d771d;
+    background-color: #BFAA8C;
     height: 100px;
 }
 .button{
-    background-color: #228b22;
+    background-color: #A0816C;
     color: white;
     font-weight: bold;
 }
 
 nav{
     font-family: monsterrat;
-    background-color: #228b22;
+    background-color: #A0816C;
     height: 80px;
     width: 100%;
     /* position: fixed;
@@ -42,7 +42,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 a.active, a:hover{
-    background-color: #FF725E;
+    background-color: #30694B;
     transform: .5s;
     padding : 7px 13px;
     border-radius: 3px;
@@ -85,7 +85,7 @@ a.active, a:hover{
     font-size: 20px;
 }
 .text h2{
-    color:#C53F3F;
+    color:#30694B;
     font-family: cursive;
 }
 .image{
@@ -122,7 +122,7 @@ a.active, a:hover{
     height: 100px;
     font-weight: bold;
     font-size: 20px;
-    color: #362357;
+    color: #30694B;
     text-align: center;
 }
 
@@ -143,7 +143,7 @@ a.active, a:hover{
     height: 250px;
 }
 .testimonial h4{
-    color: #0a043c;
+    color: #30694B;
 }
 .testimonial p{
     width: 50%;
@@ -159,7 +159,7 @@ a.active, a:hover{
 .mission{
     padding-top: 50px;
     height: 250px;
-    background-color: #0a043c;
+    background-color: #30694B;
     color:white;
     text-align: center;
 }
